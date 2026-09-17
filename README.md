@@ -19,5 +19,3 @@ python main.py
 - Random number generation
 - Limited number of attempts
 - Input validation
-
-## 📷 Example
